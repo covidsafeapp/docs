@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'The tagline of my site',
   url: 'https://docs.covidsafeapp.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Red-Icon.png',
   organizationName: 'covidsafeapp', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
