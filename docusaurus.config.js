@@ -1,17 +1,19 @@
 module.exports = {
-  title: 'My Site',
+  title: 'CovidSafe Docs',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.covidsafeapp.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'covidsafeapp', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'CovidSafe Logo',
+        src: 'https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Landscape-Red.svg',
+        srcDark: 'https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Landscape-White.svg', // Default to `logo.src`.
+
       },
       links: [
         {
