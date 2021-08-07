@@ -8,12 +8,10 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
       logo: {
         alt: 'CovidSafe Logo',
         src: 'https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Landscape-Red.svg',
         srcDark: 'https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Landscape-White.svg', // Default to `logo.src`.
-
       },
       links: [
         {
