@@ -31,6 +31,11 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'https://status.covidsafeapp.com',
+          label: 'Status',
+          position: 'left',
+        },
+        {
           href: 'mailto:hey@covidsafeapp.com',
           label: 'Email support',
           position: 'right',
