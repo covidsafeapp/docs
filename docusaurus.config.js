@@ -20,10 +20,19 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+     {
+          to: 'https://covidsafeapp.com',
+          label: 'Back to website',
+          position: 'left',
+        },
+             {
+          to: 'https://covidsafeapp.com/pricing',
+          label: 'Pricing',
+          position: 'left',
+        },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'mailto:hey@covidsafeapp.com',
+          label: 'Email support',
           position: 'right',
         },
       ],
